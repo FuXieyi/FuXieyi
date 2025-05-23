@@ -6,11 +6,11 @@
 
 I'm **Shine**, a dedicated backend engineer hailing from Beijing, China.
 
-- 📖 Passionate about full-stack development, with a focus on backend technologies such as Linux, C++, and Rust. Lately, I've been delving deeper into distributed systems.
+- 📖 Passionate about full-stack development, with a focus on backend technologies.
 
 - 🔨 Currently immersed in the world of Large Language Models, exploring its intricacies and applications.
 
-- 📝 Check out my blog at [FuXieyi](https://fuxieyi.github.io/) to dive into my insights and explorations.
+- 📝 Check out my blog at [FuXieyi](https://fuxieyi.top/) to dive into my insights and explorations.
 
 - 📫 Reach out to me at [XieyiMars@outlook.com](mailto:XieyiMars@outlook.com) to connect or discuss exciting opportunities.
 
