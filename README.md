@@ -2,9 +2,10 @@
 
 > [!NOTE]
 > People can retire, but the spirit cannot retire--Gundam
-> <img src="https://blog.246612.xyz/content/2025/06/gundam-arts.gif" width="35%" align="right">
+> <img src="https://blog.246612.xyz/content/2025/06/gundam-arts.gif" width="25%" align="right">
 
 - A college student majoring in automation, but determined to become a big shot in the field of artificial intelligence
+- Disembodied Intelligence.(NLP、ASR、AICC、MaaS)
 - Lang: English, Chinese
 - Contact:
 	- Email: [xieyiwork@icloud.com](mailto:xieyiwork@icloud.com)
