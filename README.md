@@ -1,4 +1,4 @@
-## 🖖🏻About
+## <img width="180" height="25" src="https://glitch-art.vercel.app/api/simple?word=Hi%20I'm%20Shine&font=Doto" />🖖🏻
 
 <img src="https://blog.246612.xyz/content/2025/06/gundam-arts.gif" width="35%" align="right">
 
