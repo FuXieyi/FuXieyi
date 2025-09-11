@@ -2,7 +2,7 @@
 
 > [!NOTE]
 > People can retire, but the spirit cannot retire--Gundam
-> <img src="https://blog.246612.xyz/content/2025/06/gundam-arts.gif" width="25%" align="right">
+> <img src="https://blog.246612.xyz/content/2025/06/gundam-arts.gif" width="20%" align="right">
 
 - **HKUST(GZ)-Full scholarship MPhil**
 - An undergraduate student majoring in Automation​, determined to become a big shot in the field of artificial intelligence.
