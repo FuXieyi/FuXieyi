@@ -9,7 +9,7 @@
 - Disembodied Intelligence.(NLP、ASR、AICC、MaaS)
 - Lang: English, Chinese.
 - Contact:
-	- Email: [xieyiwork@icloud.com](mailto:xieyiwork@icloud.com)
+	- Email: [xieyifoo@icloud.com](mailto:xieyiwork@icloud.com)
 
 ## **Reaching a life stage**📈
 - ​"Secured early admission to HKUST one year ahead through a recommendation-based scheme."​
