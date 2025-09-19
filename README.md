@@ -4,12 +4,12 @@
 > People can retire, but the spirit cannot retire--Gundam
 > <img src="https://blog.246612.xyz/content/2025/06/gundam-arts.gif" width="20%" align="right">
 
-- **HKUST(GZ)-Full scholarship MPhil**
-- An undergraduate student majoring in Automation​, determined to become a big shot in the field of artificial intelligence.
+- **HKUST - Full Tuition Scholarship - Red Bird MPhil**
+- As an undergraduate majoring in Automation, I aspire to become a leading figure in the field of artificial intelligence.
 - Disembodied Intelligence.(NLP、ASR、AICC、MaaS)
 - Lang: English, Chinese.
 - Contact:
 	- Email: [xieyiwork@icloud.com](mailto:xieyiwork@icloud.com)
 
 ## **Reaching a life stage**📈
-- ​"Secured early admission to HKUST one year ahead through a recommendation-based scheme."​
+- "Admitted to HKUST MPhil program one year early through a recommendation-based scheme."
